@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(363,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(364,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(368,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(369,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(371,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\main.cpp(372,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  Tema_MG3D.vcxproj -> C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\x64\Debug\Tema_MG3D.exe

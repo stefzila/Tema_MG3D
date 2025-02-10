@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(363,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(364,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(368,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(369,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(371,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\main.cpp(372,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tema_MG3D.vcxproj -> C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\x64\Debug\Tema_MG3D.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
