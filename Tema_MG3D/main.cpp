@@ -101,7 +101,7 @@ int main()
 
     // load and generate the texture
     int width, height, nrChannels;
-    unsigned char* data = stbi_load("C:/Users/sbota/Downloads/Tema_MG3D/Tema_MG3D/Textures/wall.jpg", &width, &height, &nrChannels, 0);
+    unsigned char* data = stbi_load("C:/Users/sbota/Desktop/Faculate/MG3D/Proiect/Tema_MG3D/Tema_MG3D/Textures/wall.jpg", &width, &height, &nrChannels, 0);
     if (data)
     {
         glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB, GL_UNSIGNED_BYTE, data);
@@ -349,6 +349,7 @@ void RotateSelectedObject(int targetObject, GLFWwindow* window)
         cubeRotations[targetObject] -= 20.0f * deltaTime; //rotate left
     }
 }
+
 void ScaleSelectedObject(int targetObject, GLFWwindow* window)
 {
     if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS) cubeScale[targetObject] += glm::vec3(1, 1, 1) * deltaTime; //scale Up

@@ -1,37 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\",
+  "WorkspaceRootPath": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\VertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:VertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\FragmentShader.fs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:FragmentShader.fs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\VertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:VertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\FragmentShader.fs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B4EC5E5B-D9CD-4D3C-B4EA-A7E0183536BA}|Tema_MG3D.vcxproj|solutionrelative:FragmentShader.fs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,44 +40,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwKoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T12:21:11.492Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "ViewState": "AgIAAC4HAAAAAAAAAIAwwF8HAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-08T16:58:22.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T16:58:22.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "example_glfw_opengl3.vcxproj.filters",
               "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
-              "RelativeDocumentMoniker": "api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
               "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
-              "RelativeToolTip": "api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
+              "RelativeToolTip": "..\\..\\..\\..\\Master\\MG3D\\Tema_MG3D\\api\\imgui\\examples\\example_glfw_opengl3\\example_glfw_opengl3.vcxproj.filters",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-08T12:19:19.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\Shader.h",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\Shader.h",
               "RelativeDocumentMoniker": "Shader.h",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\Shader.h",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\Shader.h",
               "RelativeToolTip": "Shader.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -86,63 +97,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "FragmentShader.fs",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\FragmentShader.fs",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\FragmentShader.fs",
               "RelativeDocumentMoniker": "FragmentShader.fs",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\FragmentShader.fs",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\FragmentShader.fs",
               "RelativeToolTip": "FragmentShader.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T12:36:23.149Z"
+              "WhenOpened": "2025-02-06T12:36:23.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "camera.h",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\camera.h",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\camera.h",
               "RelativeDocumentMoniker": "camera.h",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\camera.h",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\camera.h",
               "RelativeToolTip": "camera.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwFoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-08T08:37:26.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VertexShader.vs",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\VertexShader.vs",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\VertexShader.vs",
               "RelativeDocumentMoniker": "VertexShader.vs",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\VertexShader.vs",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\VertexShader.vs",
               "RelativeToolTip": "VertexShader.vs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T12:36:08.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T10:48:09.139Z",
+              "WhenOpened": "2025-02-06T12:36:08.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.h",
+              "DocumentMoniker": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.h",
               "RelativeDocumentMoniker": "main.h",
-              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\Master\\MG3D\\Tema_MG3D\\main.h",
+              "ToolTip": "C:\\Users\\sbota\\Desktop\\Faculate\\MG3D\\Proiect\\Tema_MG3D\\Tema_MG3D\\main.h",
               "RelativeToolTip": "main.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAF8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-06T11:46:57.515Z",
               "EditorCaption": ""

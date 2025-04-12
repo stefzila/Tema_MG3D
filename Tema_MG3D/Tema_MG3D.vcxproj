@@ -79,8 +79,8 @@
     <LibraryPath>C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\sbota\Desktop\Faculate\MG3D\Proiect\Tema_MG3D\Tema_MG3D\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\sbota\Desktop\Faculate\MG3D\Proiect\Tema_MG3D\Tema_MG3D\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>C:\Users\sbota\Desktop\Faculate\Master\MG3D\Tema_MG3D\Libraries\include;$(IncludePath)</IncludePath>
@@ -124,7 +124,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\sbota\Downloads\Tema_MG3D\Tema_MG3D\api;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\sbota\Desktop\Faculate\MG3D\Proiect\Tema_MG3D\Tema_MG3D\api;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
